@@ -1,0 +1,8 @@
+node_modules/
+dist
+
+# exclude images
+uploads/*
+
+# exception to the rule
+!uploads/.gitkeep 
