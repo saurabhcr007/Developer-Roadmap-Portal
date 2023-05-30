@@ -80,13 +80,12 @@ npm test
 ```
 
 ### Deployment
-made by 
-ravi rajkumar 
-saurabh chaudhary
 
 Compile the server code and client code by running ```npm run build```.
 This will generate a dist folder with the javascript server code and a build folder inside the client code with the built
 client code. If you want to serve the static client files with Express, change the ```MODE``` env variable to 'PRODUCTION'.
 Otherwise, you can simply serve them with a different service like NGINX. 
 
-
+###Made By:- 
+ravi rajkumar(CSIT)(8 Semster) 
+saurabh chaudhary(* semester)
