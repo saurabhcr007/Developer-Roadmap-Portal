@@ -80,6 +80,9 @@ npm test
 ```
 
 ### Deployment
+made by 
+ravi rajkumar 
+saurabh chaudhary
 
 Compile the server code and client code by running ```npm run build```.
 This will generate a dist folder with the javascript server code and a build folder inside the client code with the built
