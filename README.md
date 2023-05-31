@@ -86,6 +86,8 @@ This will generate a dist folder with the javascript server code and a build fol
 client code. If you want to serve the static client files with Express, change the ```MODE``` env variable to 'PRODUCTION'.
 Otherwise, you can simply serve them with a different service like NGINX. 
 
-###Made By:- 
-ravi rajkumar(CSIT)(8 Semster) 
-saurabh chaudhary(* semester)
+###Made By:-
+
+ravi rajkumar(CSIT)(8 Semster)
+
+saurabh chaudhary(8 semester)
