@@ -40,9 +40,10 @@
 		"express": "^4.17.1",
 		"jsonwebtoken": "^8.5.1",
 		"long-timeout": "^0.1.1",
-		"mongodb": "^3.6.4",
+		"mongodb": "^3.7.3",
 		"mongoose": "^5.12.5",
 		"multer": "^1.4.2",
+		"ts": "^0.2.2",
 		"uuid": "^8.3.2"
 	},
 	"devDependencies": {
